@@ -1,0 +1,4 @@
+num=12
+num2=5
+sum=num+num2
+print("Sum of two numbers=",sum)
